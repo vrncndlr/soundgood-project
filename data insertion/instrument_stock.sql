@@ -1,0 +1,15 @@
+insert into instrument_stock (type, in_stock, price) values ('Guitar', true, 67);
+insert into instrument_stock (type, in_stock, price) values ('Piano', true, 164);
+insert into instrument_stock (type, in_stock, price) values ('Bass', false, 55);
+insert into instrument_stock (type, in_stock, price) values ('Violin', false, 172);
+insert into instrument_stock (type, in_stock, price) values ('Cello', true, 139);
+insert into instrument_stock (type, in_stock, price) values ('Flute', false, 144);
+insert into instrument_stock (type, in_stock, price) values ('Trumpet', true, 182);
+insert into instrument_stock (type, in_stock, price) values ('Saxophone', false, 75);
+insert into instrument_stock (type, in_stock, price) values ('Clarinet', true, 67);
+insert into instrument_stock (type, in_stock, price) values ('Drums', true, 141);
+insert into instrument_stock (type, in_stock, price) values ('Drums', false, 154);
+insert into instrument_stock (type, in_stock, price) values ('Harp', false, 59);
+insert into instrument_stock (type, in_stock, price) values ('Guitar', false, 169);
+insert into instrument_stock (type, in_stock, price) values ('Bass', true, 181);
+insert into instrument_stock (type, in_stock, price) values ('Violin', true, 176);

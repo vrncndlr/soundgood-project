@@ -1,0 +1,14 @@
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (1, 1, 	'2022-09-21 18:14:08', '2022-09-21 20:14:08');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (3, 2, 	'2022-08-01 07:53:01', '2022-08-01 09:53:01');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (5, 3, 	'2022-01-06 14:40:50', '2022-01-06 16:40:50');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (7, 4, 	'2022-03-08 15:29:20', '2022-03-08 17:29:20');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (9, 5, 	'2022-11-03 00:05:55', '2022-11-03 02:05:55');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (11, 6, 	'2022-08-24 19:35:02', '2022-08-24 21:35:02');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (13, 7, 	'2022-08-05 19:33:35', '2022-08-05 21:33:35');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (15, 8, 	'2022-09-01 17:45:29', '2022-09-01 19:45:29');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (1, 9, 	'2021-12-15 17:26:15', '2021-12-15 19:26:15');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (3, 10, 	'2022-04-20 17:13:27', '2022-04-20 19:13:27');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (5, 11, 	'2022-04-01 00:23:06', '2022-04-01 02:23:06');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (7, 12, 	'2022-10-30 01:01:34', '2022-10-30 03:01:34');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (9, 13, 	'2022-06-22 18:14:38', '2022-06-22 20:14:38');
+insert into group_schedule (classroom_id, grouplesson_id, start_time, end_time) values (11, 14, '2022-09-09 09:02:01', '2022-09-09 11:02:01');

@@ -1,0 +1,15 @@
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('guitar', 2, 7, 20, 8, 1);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('piano', 3, 8, 20, 15, 2);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('bass', 3, 6, 20, 19, 3);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('violin', 2, 8, 20, 16, 4);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('cello', 1, 10, 20, 7, 5);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('flute', 1, 10, 20, 6, 6);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('trupet', 2, 9, 20, 14, 7);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('saxophone', 2, 6, 20, 6, 8);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('clarinet', 1, 9, 20, 13, 9);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('drums', 1, 5, 20, 7, 10);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('harp', 3, 6, 20, 13, 11);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('guitar', 1, 10, 20, 16, 1);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('piano', 1, 9, 20, 17, 2);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('bass', 2, 8, 20, 15, 3);
+insert into group_lesson (instrument, skill_level, min_students, max_students, registered_students, employment_id) values ('violin', 3, 10, 20, 8, 4);

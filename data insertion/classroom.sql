@@ -1,0 +1,15 @@
+insert into classroom (classroom_name) values ('Ruò');
+insert into classroom (classroom_name) values ('Yú');
+insert into classroom (classroom_name) values ('Aurélie');
+insert into classroom (classroom_name) values ('Hélèna');
+insert into classroom (classroom_name) values ('Clémence');
+insert into classroom (classroom_name) values ('Rachèle');
+insert into classroom (classroom_name) values ('Mélia');
+insert into classroom (classroom_name) values ('Görel');
+insert into classroom (classroom_name) values ('Maëline');
+insert into classroom (classroom_name) values ('Océanne');
+insert into classroom (classroom_name) values ('Maëline');
+insert into classroom (classroom_name) values ('Andréa');
+insert into classroom (classroom_name) values ('Håkan');
+insert into classroom (classroom_name) values ('Desirée');
+insert into classroom (classroom_name) values ('Alizée');

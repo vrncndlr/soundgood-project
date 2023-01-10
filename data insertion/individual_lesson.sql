@@ -1,0 +1,16 @@
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Guitar', 2, 	'2022-06-17 02:09:51', '2022-06-17 04:09:51', 1);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Guitar', 3, 	'2022-03-09 01:45:06', '2022-03-09 03:45:06', 2);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Piano', 1, 	'2022-07-01 11:31:21', '2022-07-01 13:31:21', 3);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Piano', 1, 	'2022-09-09 07:35:35', '2022-09-09 09:35:35', 4);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Bass', 1, 	'2021-12-13 06:52:43', '2021-12-13 08:52:43', 5);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Bass', 3, 	'2022-11-24 16:45:43', '2022-11-24 18:45:43', 6);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Violin', 1, 	'2022-06-13 02:38:19', '2022-06-13 04:38:19', 7);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Cello', 3, 	'2022-04-22 20:20:07', '2022-04-22 22:20:07', 8);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Flute', 2, 	'2022-09-10 21:08:07', '2022-09-10 23:08:07', 9);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Trumpet', 1, '2022-07-06 10:59:13', '2022-07-06 12:59:13', 10);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Saxophone', 2, '2022-01-02 10:11:52', '2022-01-02 12:11:52', 11);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Clarinet', 2, '2022-10-27 13:23:37', '2022-10-27 15:23:37', 12);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Drums', 1, 	'2022-01-21 12:36:13', '2022-01-21 14:36:13', 13);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Harp', 3, 	'2022-07-12 09:48:15', '2022-07-12 11:48:15', 14);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Flute', 3, 	'2022-02-03 08:53:30', '2022-02-03 10:53:30', 15);
+insert into individual_lesson (instrument, skill_level, start_time, end_time, student_id) values ('Drums', 3, 	'2022-12-01 17:30:00', '2022-12-01 19:30:00', 13);
